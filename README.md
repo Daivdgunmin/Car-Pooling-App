@@ -1,3 +1,3 @@
 # Car-Pooling-App
-This is my first project
+This is my first project. 
 Author - David M. Gunmin
